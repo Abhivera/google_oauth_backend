@@ -35,7 +35,7 @@ This is a **Google OAuth 2.0 Authentication API** built with **Node.js, Express,
 ## 🔧 Installation & Setup
 ### **1. Clone the repository**
 ```sh
-git clone https://github.com/your-username/google-oauth-backend.git
+git clone https://github.com/Abhivera/google_oauth_backend.git
 cd google-oauth-backend
 ```
 
